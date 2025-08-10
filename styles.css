@@ -1,0 +1,30 @@
+body {
+    background: #F7F0E6;
+    margin: 0px;
+    font-family: "Afacad", sans-serif;
+    font-weight: 400;
+}
+
+.hotbar {
+    background: #E8DFD1;
+    padding: 20px 70px 20px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.afacad-logo {
+
+}
+
+.hotbar-logo {
+    display: flex;
+    justify-content: start;
+    font-family: "Afacad", sans-serif;
+    font-weight: bold;
+}
+
+.hotbar-menu {
+    display: flex;
+    justify-content: end;
+    gap: 100px;
+}
